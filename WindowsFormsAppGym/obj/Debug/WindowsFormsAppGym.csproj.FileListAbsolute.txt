@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\Gym Management\WindowsFormsAppGym\bin\Debug\WindowsFormsAppGym.exe.config
+C:\Users\HP\Desktop\Gym Management\WindowsFormsAppGym\bin\Debug\WindowsFormsAppGym.exe
+C:\Users\HP\Desktop\Gym Management\WindowsFormsAppGym\bin\Debug\WindowsFormsAppGym.pdb
+C:\Users\HP\Desktop\Gym Management\WindowsFormsAppGym\bin\Debug\MySql.Data.DLL
+C:\Users\HP\Desktop\Gym Management\WindowsFormsAppGym\obj\Debug\WindowsFormsAppGym.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Gym Management\WindowsFormsAppGym\obj\Debug\WindowsFormsAppGym.Billing.resources
+C:\Users\HP\Desktop\Gym Management\WindowsFormsAppGym\obj\Debug\WindowsFormsAppGym.Coach.resources
+C:\Users\HP\Desktop\Gym Management\WindowsFormsAppGym\obj\Debug\WindowsFormsAppGym.LoginForm.resources
+C:\Users\HP\Desktop\Gym Management\WindowsFormsAppGym\obj\Debug\WindowsFormsAppGym.Members.resources
+C:\Users\HP\Desktop\Gym Management\WindowsFormsAppGym\obj\Debug\WindowsFormsAppGym.Memberships.resources
+C:\Users\HP\Desktop\Gym Management\WindowsFormsAppGym\obj\Debug\WindowsFormsAppGym.Properties.Resources.resources
+C:\Users\HP\Desktop\Gym Management\WindowsFormsAppGym\obj\Debug\WindowsFormsAppGym.Receptionists.resources
+C:\Users\HP\Desktop\Gym Management\WindowsFormsAppGym\obj\Debug\WindowsFormsAppGym.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Gym Management\WindowsFormsAppGym\obj\Debug\WindowsFormsAppGym.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Gym Management\WindowsFormsAppGym\obj\Debug\WindowsFormsAppGym.csproj.CopyComplete
+C:\Users\HP\Desktop\Gym Management\WindowsFormsAppGym\obj\Debug\WindowsFormsAppGym.exe
+C:\Users\HP\Desktop\Gym Management\WindowsFormsAppGym\obj\Debug\WindowsFormsAppGym.pdb
